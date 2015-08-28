@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Carmen
+ * @author Atenna is Carmen now.
  */
 public class FasterSolution {
 

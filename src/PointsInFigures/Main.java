@@ -1,5 +1,5 @@
 /*
-
+    Example solution 2 using OOP.
  */
 package PointsInFigures;
 
@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Carmen
+ * @author Atenna is Carmen now.
  */
 public class Main {
     class Rectangle {
@@ -43,7 +43,10 @@ public class Main {
         String line = "";
         line = scn.nextLine();
         while(!line.equals("*")) {
-            
+            /*
+             ...and the rest of the solution. I'm not going to finish it because
+             there is better solution in FasterSolution file. 
+            */
             line = scn.nextLine();
         }
     }
