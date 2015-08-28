@@ -1,7 +1,7 @@
 /*
     Example solution 2 using OOP.
  */
-package PointsInFigures;
+package Solution2;
 
 import java.util.Scanner;
 
@@ -35,7 +35,7 @@ public class Main {
         }
     public static Rectangle rectangles[];
     public static Circle circles[];
-    
+    /*
     public static void main(String[] args) {
         rectangles = new Rectangle[10];
         circles = new Circle[10];
@@ -43,11 +43,13 @@ public class Main {
         String line = "";
         line = scn.nextLine();
         while(!line.equals("*")) {
-            /*
-             ...and the rest of the solution. I'm not going to finish it because
-             there is better solution in FasterSolution file. 
-            */
+            
+            // ...and the rest of the solution. I'm not going to finish it because
+            // there is better solution in FasterSolution file. 
+            
             line = scn.nextLine();
         }
     }
+    */
+    
 }

@@ -1,4 +1,4 @@
-package PointsInFigures;
+package Solution1;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -8,7 +8,7 @@ import java.util.Scanner;
  *
  * @author Atenna is Carmen now.
  */
-public class FasterSolution {
+public class Main {
 
     public static void main(String[] args) {
         List<String[]> figures;
